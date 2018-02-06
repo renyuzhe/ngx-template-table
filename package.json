@@ -1,6 +1,6 @@
 {
     "name": "ngx-template-table",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Angular5 ng-zorro0.6.12 ng2-template datatable",
     "main": "index.js",
     "module": "index.js",

@@ -1,0 +1,1 @@
+{"version":3,"file":"exTable.service.js","sourceRoot":"","sources":["../../../lib/src/service/exTable.service.ts"],"names":[],"mappings":";;;;AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;;IAKzC;KAAiB;;gBAHlB,UAAU;;;;yBAFX;;SAGa,cAAc","sourcesContent":["import { Injectable } from '@angular/core';\n\n@Injectable()\nexport class ExTableService {\n\n  constructor() { }\n\n}\n"]}
